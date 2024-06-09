@@ -9,7 +9,7 @@ Contact Information for NCDC     Email : ncdccors@gmail.com    Line ID : @891wli
 
 [Click to view CORS map](https://www.google.com/maps/d/embed?mid=18YdW5S6mTmsMpoeoVv5bBa-qzYt_PMM&ehbc=2E312F")  
 
-refernce: Coordinate NCDC ITRF2014@epoch2021.93.xlsx  
+refernce: Coordinate NCDC ITRF2014@epoch2021.93
 
 |     | STA   |              X |             Y |             Z | lat_dms        | lng_dms         |       h |   MSL_TGM17 |
 |----:|:------|---------------:|--------------:|--------------:|:---------------|:----------------|--------:|------------:|
