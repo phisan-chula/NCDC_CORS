@@ -3,6 +3,11 @@ CORS: Continuously Operating Reference Stations of various government agencies a
 
 refernce: Coordinate NCDC ITRF2014@epoch2021.93.xlsx  
 
+
+https://github.com/phisan-chula/NCDC_CORS/blob/main/CORS_NCDC_MSL.kml
+
+
+
 |     | STA   |              X |             Y |             Z | lat_dms        | lng_dms         |       h |   MSL_TGM17 |
 |----:|:------|---------------:|--------------:|--------------:|:---------------|:----------------|--------:|------------:|
 |   0 | AKSN  | -1,482,252.367 | 5,925,273.075 | 1,831,476.076 | 16°47′52.195″  | 104°02′41.0794″ | 173.388 |     198.785 |
