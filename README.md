@@ -1,5 +1,5 @@
 # NCDC_CORS
-NCDC CORS: Continuously Operating Reference Stations of various government agencies across the country administrated by the Nation CORS Data Center.  The National CORS Data Center provides unified high-accuracy coordinates to government agencies, private sector and general public.  
+NCDC CORS: Continuously Operating Reference Stations of various government agencies across Thailand administrated by the Nation CORS Data Center.  The National CORS Data Center provides unified high-accuracy coordinates to government agencies, private sector and general public.  
 
 Thanks to NCDC, the CORS data from 7 days of 24-hour sessions at mean epoch 2021.93 have been successfully fixed. The precise ellipsoidal height (with millimeter precision) is then converted to orthometric height (MSL) using the Thai Geoid Model 2017 (TGM-2017), as shown in the column 'MSL_TMG17'. The derived MSL at the phase center of CORS is accurate to 5-10 cm.  
 Various formats are provided for ease of use and promotion: CSV, KML, GPKG, etc.
