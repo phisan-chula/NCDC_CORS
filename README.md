@@ -1,5 +1,5 @@
 # NCDC_CORS
-CORS: Continuously Operating Reference Stations of various government agencies across the country, the National CORS Data Center can provide unified high-accuracy coordinates to government agencies, private sector and general public.  
+NCDC CORS: Continuously Operating Reference Stations of various government agencies across the country administrated by the Nation CORS Data Center.  The National CORS Data Center provides unified high-accuracy coordinates to government agencies, private sector and general public.  
 
 [Click to view CORS map](https://www.google.com/maps/d/embed?mid=18YdW5S6mTmsMpoeoVv5bBa-qzYt_PMM&ehbc=2E312F")
 
