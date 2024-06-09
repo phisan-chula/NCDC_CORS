@@ -3,7 +3,11 @@ NCDC CORS: Continuously Operating Reference Stations of various government agenc
 
 Thanks to NCDC, the CORS data from 7 days of 24-hour sessions at mean epoch 2021.93 have been successfully fixed. The precise ellipsoidal height (with millimeter/centimeter precision) is then converted to orthometric height (MSL) using the Thai Geoid Model 2017 (TGM-2017), as shown in the column 'MSL_TMG17'. The derived MSL at the phase center of CORS is accurate to 5-10 cm.  
 
-Various formats are provided for ease of use and promotion: CSV, KML, GPKG, etc.  
+Various formats for NCDC coordinate list are provided for ease of use and promotion: CSV, KML, GPKG, etc.  
+
+Contact Information for NCDC 
+Email : ncdccors@gmail.com  
+Line ID : @891wliii  
 
 [Click to view CORS map](https://www.google.com/maps/d/embed?mid=18YdW5S6mTmsMpoeoVv5bBa-qzYt_PMM&ehbc=2E312F")  
 
