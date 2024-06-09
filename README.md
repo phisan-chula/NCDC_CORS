@@ -5,9 +5,7 @@ Thanks to NCDC, the CORS data from 7 days of 24-hour sessions at mean epoch 2021
 
 Various formats for NCDC coordinate list are provided for ease of use and promotion: CSV, KML, GPKG, etc.  
 
-Contact Information for NCDC 
-Email : ncdccors@gmail.com  
-Line ID : @891wliii  
+Contact Information for NCDC     Email : ncdccors@gmail.com    Line ID : @891wliii  
 
 [Click to view CORS map](https://www.google.com/maps/d/embed?mid=18YdW5S6mTmsMpoeoVv5bBa-qzYt_PMM&ehbc=2E312F")  
 
