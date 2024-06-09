@@ -1,12 +1,12 @@
 # NCDC_CORS
 CORS: Continuously Operating Reference Stations of various government agencies across the country, the National CORS Data Center can provide unified high-accuracy coordinates to government agencies, private sector and general public.  
 
+[Click to view CORS map](<iframe src="https://www.google.com/maps/d/embed?mid=18YdW5S6mTmsMpoeoVv5bBa-qzYt_PMM&ehbc=2E312F" width="640" height="480"></iframe>)
+
 refernce: Coordinate NCDC ITRF2014@epoch2021.93.xlsx  
 
 
 https://github.com/phisan-chula/NCDC_CORS/blob/main/CORS_NCDC_MSL.kml
-
-
 
 |     | STA   |              X |             Y |             Z | lat_dms        | lng_dms         |       h |   MSL_TGM17 |
 |----:|:------|---------------:|--------------:|--------------:|:---------------|:----------------|--------:|------------:|
