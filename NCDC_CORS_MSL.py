@@ -40,7 +40,8 @@ class CORS_NCDC:
             return [*geod_tr, lat_dms, lng_dms, *enu]
         df[['lat_', 'lng_','h_', 'lat_dms', 'lng_dms', 'dE','dN','dU' ]] =\
                                 df.apply( Tr, axis=1,  result_type='expand' )
-        self.gdf = gpd.GeoDataFrame( df , crs='EPSG:4326', 
+        # self.gdf = gpd.GeoDataFrame( df , crs='EPSG:4326',  ... bug!  with pyogrio driver 
+        self.gdf = gpd.GeoDataFrame( df , crs='OGC:CRS84', 
                        geometry=gpd.points_from_xy(df.Long, df.Lat) )
         self.InterpolateMSL()
 
@@ -96,9 +97,9 @@ print( ncdc.gdf.dN.describe() )
 print( ncdc.gdf.dU.describe() )
 print( ncdc.gdf )
 
-ncdc.PlotKML()
-
-# BUG! df.to_file( "./CACHE/CORS_NCDC_MSL.kml", layer='NCDC_CORS', driver="KML", engine='pyogrio' )
+ncdc.PlotKML()  # export to KML , with visualization capability
+# simple  KML , need some more preparation
+ncdc.gdf.to_file( "./CACHE/CORS_NCDC_MSL_.kml", layer='NCDC_CORS', driver="KML", engine='pyogrio' )
 
 df = ncdc.gdf[[ 'STA', 'X', 'Y', 'Z', 'lat_dms', 'lng_dms',  'h',  'MSL_TGM17','epoch', 'geometry' ]].copy()
 df[['h','MSL_TGM17']] = df[['h','MSL_TGM17']].round(3)
@@ -108,10 +109,5 @@ FMT = [ None, None, ',.3f',',.3f', ',.3f', None, None, ',.3f' ]
 print(df[df.columns[:-2]].to_markdown(floatfmt=FMT))
 
 df[df.columns[:-2]].to_csv('./CACHE/CORS_NCDC_MSL.csv', index=False ) 
-
-
-
-
-
 
 import pdb ; pdb.set_trace()
