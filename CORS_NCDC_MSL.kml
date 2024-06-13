@@ -3470,32 +3470,7 @@
                 </Point>
             </Placemark>
             <Placemark id="284">
-                <name>139: OKKR</name>
-                <description>
-                &lt;html&gt;
-                &lt;body&gt;
-                &lt;table border=&quot;1&quot;&gt;
-                &lt;tr&gt;&lt;th&gt;Parameter&lt;/th&gt;&lt;th&gt;Value&lt;/th&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;OKKR&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;X&lt;/td&gt;&lt;td&gt;-1178265.217 m&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Y&lt;/td&gt;&lt;td&gt;6073650.587 m&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Z&lt;/td&gt;&lt;td&gt;1544929.831 m&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Lat&lt;/td&gt;&lt;td&gt;14°06′40.8894″&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Lng&lt;/td&gt;&lt;td&gt;100°58′43.6535″&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;HAE&lt;/td&gt;&lt;td&gt;-15.452 m&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;MSL_TGM17&lt;/td&gt;&lt;td&gt;13.840 m&lt;/td&gt;&lt;/tr&gt;
-                &lt;tr&gt;&lt;td&gt;Ref.Frame&lt;/td&gt;&lt;td&gt;ITRF2014@2021.93&lt;/td&gt;&lt;/tr&gt;
-                &lt;/table&gt;
-                &lt;/body&gt;
-                &lt;/html&gt;
-                </description>
-                <styleUrl>#3</styleUrl>
-                <Point id="283">
-                    <coordinates>100.97879265898618,14.111358193454606,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="286">
-                <name>140: OKRK</name>
+                <name>139: OKRK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3515,12 +3490,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="285">
+                <Point id="283">
                     <coordinates>100.97879269462544,14.111358071356097,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="288">
-                <name>141: PBHN</name>
+            <Placemark id="286">
+                <name>140: PBHN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3540,12 +3515,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="287">
+                <Point id="285">
                     <coordinates>105.23009250091808,15.245097775524243,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="290">
-                <name>142: PCCO</name>
+            <Placemark id="288">
+                <name>141: PCCO</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3565,12 +3540,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="289">
+                <Point id="287">
                     <coordinates>101.6104490615513,13.445082896373405,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="292">
-                <name>143: PCPM</name>
+            <Placemark id="290">
+                <name>142: PCPM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3590,12 +3565,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="291">
+                <Point id="289">
                     <coordinates>101.80284567524313,16.08263685551286,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="294">
-                <name>144: PCRI</name>
+            <Placemark id="292">
+                <name>143: PCRI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3615,12 +3590,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="293">
+                <Point id="291">
                     <coordinates>99.54298589818177,19.656099819694166,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="296">
-                <name>145: PDCP</name>
+            <Placemark id="294">
+                <name>144: PDCP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3640,12 +3615,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="295">
+                <Point id="293">
                     <coordinates>101.42169184318868,15.904701259025256,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="298">
-                <name>146: PJRK</name>
+            <Placemark id="296">
+                <name>145: PJRK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3665,12 +3640,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="297">
+                <Point id="295">
                     <coordinates>99.79635034966753,11.811617424089677,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="300">
-                <name>147: PKET</name>
+            <Placemark id="298">
+                <name>146: PKET</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3690,12 +3665,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="299">
+                <Point id="297">
                     <coordinates>98.39439782175269,7.88962723775824,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="302">
-                <name>148: PKKT</name>
+            <Placemark id="300">
+                <name>147: PKKT</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3715,12 +3690,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="301">
+                <Point id="299">
                     <coordinates>100.54007621688233,13.912475092238735,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="304">
-                <name>149: PKNK</name>
+            <Placemark id="302">
+                <name>148: PKNK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3740,12 +3715,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="303">
+                <Point id="301">
                     <coordinates>100.20888442297027,8.337822346816115,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="306">
-                <name>150: PLDG</name>
+            <Placemark id="304">
+                <name>149: PLDG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3765,12 +3740,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="305">
+                <Point id="303">
                     <coordinates>101.21516176456753,12.971815790974986,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="308">
-                <name>151: PNNK</name>
+            <Placemark id="306">
+                <name>150: PNNK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3790,12 +3765,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="307">
+                <Point id="305">
                     <coordinates>101.18334686770316,13.465835869820873,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="310">
-                <name>152: PNPS</name>
+            <Placemark id="308">
+                <name>151: PNPS</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3815,12 +3790,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="309">
+                <Point id="307">
                     <coordinates>103.08248622096998,18.036009564586486,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="312">
-                <name>153: PNST</name>
+            <Placemark id="310">
+                <name>152: PNST</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3840,12 +3815,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="311">
+                <Point id="309">
                     <coordinates>99.39516831355142,8.420064052868511,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="314">
-                <name>154: PNTG</name>
+            <Placemark id="312">
+                <name>153: PNTG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3865,12 +3840,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="313">
+                <Point id="311">
                     <coordinates>103.98334674903501,16.317163891075122,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="316">
-                <name>155: PONG</name>
+            <Placemark id="314">
+                <name>154: PONG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3890,12 +3865,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="315">
+                <Point id="313">
                     <coordinates>100.27519922921137,19.149990374035383,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="318">
-                <name>156: PPRM</name>
+            <Placemark id="316">
+                <name>155: PPRM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3915,12 +3890,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="317">
+                <Point id="315">
                     <coordinates>100.20160417742734,17.03367144274244,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="320">
-                <name>157: PTBR</name>
+            <Placemark id="318">
+                <name>156: PTBR</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3940,12 +3915,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="319">
+                <Point id="317">
                     <coordinates>99.94431785703887,13.109143091150106,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="322">
-                <name>158: PTLG</name>
+            <Placemark id="320">
+                <name>157: PTLG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3965,12 +3940,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="321">
+                <Point id="319">
                     <coordinates>100.07152787429796,7.615585570653194,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="324">
-                <name>159: PYAO</name>
+            <Placemark id="322">
+                <name>158: PYAO</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -3990,12 +3965,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="323">
+                <Point id="321">
                     <coordinates>99.88051202536938,19.192116814644972,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="326">
-                <name>160: RAND</name>
+            <Placemark id="324">
+                <name>159: RAND</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4015,12 +3990,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="325">
+                <Point id="323">
                     <coordinates>100.3243839902353,7.767622405727972,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="328">
-                <name>161: RATP</name>
+            <Placemark id="326">
+                <name>160: RATP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4040,12 +4015,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="327">
+                <Point id="325">
                     <coordinates>100.25613610797504,7.134555150941963,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="330">
-                <name>162: RAYG</name>
+            <Placemark id="328">
+                <name>161: RAYG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4065,12 +4040,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="329">
+                <Point id="327">
                     <coordinates>101.27369138870972,12.669043080372896,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="332">
-                <name>163: SADO</name>
+            <Placemark id="330">
+                <name>162: SADO</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4090,12 +4065,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="331">
+                <Point id="329">
                     <coordinates>100.44909678453035,6.730635388825171,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="334">
-                <name>164: SAKW</name>
+            <Placemark id="332">
+                <name>163: SAKW</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4115,12 +4090,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="333">
+                <Point id="331">
                     <coordinates>102.09686290677234,13.806009036637047,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="336">
-                <name>165: SAMG</name>
+            <Placemark id="334">
+                <name>164: SAMG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4140,12 +4115,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="335">
+                <Point id="333">
                     <coordinates>98.73234387697222,18.848126829794023,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="338">
-                <name>166: SATN</name>
+            <Placemark id="336">
+                <name>165: SATN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4165,12 +4140,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="337">
+                <Point id="335">
                     <coordinates>100.06613459200094,6.624694236622001,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="340">
-                <name>167: SBKK</name>
+            <Placemark id="338">
+                <name>166: SBKK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4190,12 +4165,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="339">
+                <Point id="337">
                     <coordinates>100.59649429089365,13.792943959470719,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="342">
-                <name>168: SBRI</name>
+            <Placemark id="340">
+                <name>167: SBRI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4215,12 +4190,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="341">
+                <Point id="339">
                     <coordinates>101.61815351553064,6.704525726507291,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="344">
-                <name>169: SCHP</name>
+            <Placemark id="342">
+                <name>168: SCHP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4240,12 +4215,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="343">
+                <Point id="341">
                     <coordinates>102.1871361587434,16.801187045377098,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="346">
-                <name>170: SDAN</name>
+            <Placemark id="344">
+                <name>169: SDAN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4265,12 +4240,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="345">
+                <Point id="343">
                     <coordinates>100.85928257418777,16.18914469910131,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="348">
-                <name>171: SDAO</name>
+            <Placemark id="346">
+                <name>170: SDAO</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4290,12 +4265,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="347">
+                <Point id="345">
                     <coordinates>102.21837332729561,13.137028287410004,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="350">
-                <name>172: SGNN</name>
+            <Placemark id="348">
+                <name>171: SGNN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4315,12 +4290,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="349">
+                <Point id="347">
                     <coordinates>101.72282088892858,14.892542237068417,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="352">
-                <name>173: SICN</name>
+            <Placemark id="350">
+                <name>172: SICN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4340,12 +4315,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="351">
+                <Point id="349">
                     <coordinates>99.90125116187444,9.007168226568082,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="354">
-                <name>174: SISA</name>
+            <Placemark id="352">
+                <name>173: SISA</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4365,12 +4340,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="353">
+                <Point id="351">
                     <coordinates>99.76045214239768,17.51752961803163,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="356">
-                <name>175: SISK</name>
+            <Placemark id="354">
+                <name>174: SISK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4390,12 +4365,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="355">
+                <Point id="353">
                     <coordinates>104.28568378694824,15.116119487451922,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="358">
-                <name>176: SKBR</name>
+            <Placemark id="356">
+                <name>175: SKBR</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4415,12 +4390,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="357">
+                <Point id="355">
                     <coordinates>98.45336399038916,15.15500684300989,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="360">
-                <name>177: SKNK</name>
+            <Placemark id="358">
+                <name>176: SKNK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4440,12 +4415,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="359">
+                <Point id="357">
                     <coordinates>104.13370802042185,17.155201672213003,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="362">
-                <name>178: SKOM</name>
+            <Placemark id="360">
+                <name>177: SKOM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4465,12 +4440,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="361">
+                <Point id="359">
                     <coordinates>102.27197957704513,18.06367615079674,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="364">
-                <name>179: SKPM</name>
+            <Placemark id="362">
+                <name>178: SKPM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4490,12 +4465,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="363">
+                <Point id="361">
                     <coordinates>103.79175037027015,14.945870953835897,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="366">
-                <name>180: SKTH</name>
+            <Placemark id="364">
+                <name>179: SKTH</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4515,12 +4490,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="365">
+                <Point id="363">
                     <coordinates>99.82726708103209,17.00518189764173,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="368">
-                <name>181: SMNM</name>
+            <Placemark id="366">
+                <name>180: SMNM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4540,12 +4515,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="367">
+                <Point id="365">
                     <coordinates>99.24553233470286,18.06519897278981,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="370">
-                <name>182: SNCK</name>
+            <Placemark id="368">
+                <name>181: SNCK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4565,12 +4540,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="369">
+                <Point id="367">
                     <coordinates>101.43976233599689,13.65857798925592,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="372">
-                <name>183: SOKA</name>
+            <Placemark id="370">
+                <name>182: SOKA</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4590,12 +4565,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="371">
+                <Point id="369">
                     <coordinates>100.5961224113871,7.2066889157658425,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="374">
-                <name>184: SPBR</name>
+            <Placemark id="372">
+                <name>183: SPBR</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4615,12 +4590,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="373">
+                <Point id="371">
                     <coordinates>100.1305851615589,14.518871912701089,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="376">
-                <name>185: SPDI</name>
+            <Placemark id="374">
+                <name>184: SPDI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4640,12 +4615,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="375">
+                <Point id="373">
                     <coordinates>101.87743392009514,6.084835585593491,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="378">
-                <name>186: SPUG</name>
+            <Placemark id="376">
+                <name>185: SPUG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4665,12 +4640,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="377">
+                <Point id="375">
                     <coordinates>99.44076854691926,13.547341652539858,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="380">
-                <name>187: SRTN</name>
+            <Placemark id="378">
+                <name>186: SRTN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4690,12 +4665,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="379">
+                <Point id="377">
                     <coordinates>99.33136125666371,9.132221105020447,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="382">
-                <name>188: STHP</name>
+            <Placemark id="380">
+                <name>187: STHP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4715,12 +4690,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="381">
+                <Point id="379">
                     <coordinates>100.90406730207079,12.662819946385133,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="384">
-                <name>189: SURN</name>
+            <Placemark id="382">
+                <name>188: SURN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4740,12 +4715,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="383">
+                <Point id="381">
                     <coordinates>103.4875395809611,14.879636796808066,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="386">
-                <name>190: TAPY</name>
+            <Placemark id="384">
+                <name>189: TAPY</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4765,12 +4740,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="385">
+                <Point id="383">
                     <coordinates>102.80591715935411,14.006208373651715,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="388">
-                <name>191: TCP1</name>
+            <Placemark id="386">
+                <name>190: TCP1</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4790,12 +4765,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="387">
+                <Point id="385">
                     <coordinates>99.17022758938207,10.80288718620938,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="390">
-                <name>192: TCP2</name>
+            <Placemark id="388">
+                <name>191: TCP2</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4815,12 +4790,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="389">
+                <Point id="387">
                     <coordinates>99.0586991143279,10.069820878262817,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="392">
-                <name>193: TCTI</name>
+            <Placemark id="390">
+                <name>192: TCTI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4840,12 +4815,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="391">
+                <Point id="389">
                     <coordinates>101.83344406968106,12.735478810103979,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="394">
-                <name>194: TEPA</name>
+            <Placemark id="392">
+                <name>193: TEPA</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4865,12 +4840,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="393">
+                <Point id="391">
                     <coordinates>100.96450256075521,6.829825603884777,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="396">
-                <name>195: TGSG</name>
+            <Placemark id="394">
+                <name>194: TGSG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4890,12 +4865,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="395">
+                <Point id="393">
                     <coordinates>99.67128980160743,8.129474204338273,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="398">
-                <name>196: THKP</name>
+            <Placemark id="396">
+                <name>195: THKP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4915,12 +4890,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="397">
+                <Point id="395">
                     <coordinates>98.34442459308073,8.870717533972032,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="400">
-                <name>197: THPP</name>
+            <Placemark id="398">
+                <name>196: THPP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4940,12 +4915,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="399">
+                <Point id="397">
                     <coordinates>98.62419946106932,14.744871298876381,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="402">
-                <name>198: THSY</name>
+            <Placemark id="400">
+                <name>197: THSY</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4965,12 +4940,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="401">
+                <Point id="399">
                     <coordinates>98.22583040391014,17.226711692744075,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="404">
-                <name>199: TKK1</name>
+            <Placemark id="402">
+                <name>198: TKK1</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -4990,12 +4965,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="403">
+                <Point id="401">
                     <coordinates>102.91270298707693,16.838454303542743,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="406">
-                <name>200: TKK2</name>
+            <Placemark id="404">
+                <name>199: TKK2</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5015,12 +4990,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="405">
+                <Point id="403">
                     <coordinates>102.64885176089425,15.895124511357919,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="408">
-                <name>201: TKPP</name>
+            <Placemark id="406">
+                <name>200: TKPP</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5040,12 +5015,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="407">
+                <Point id="405">
                     <coordinates>105.0361567843187,15.605303230078635,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="410">
-                <name>202: TKRI</name>
+            <Placemark id="408">
+                <name>201: TKRI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5065,12 +5040,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="409">
+                <Point id="407">
                     <coordinates>99.42952741766581,14.10520667026291,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="412">
-                <name>203: TNPM</name>
+            <Placemark id="410">
+                <name>202: TNPM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5090,12 +5065,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="411">
+                <Point id="409">
                     <coordinates>104.57834072537133,17.334347233003438,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="414">
-                <name>204: TNPT</name>
+            <Placemark id="412">
+                <name>203: TNPT</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5115,12 +5090,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="413">
+                <Point id="411">
                     <coordinates>99.93992267551512,14.088017597383761,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="416">
-                <name>205: TNSN</name>
+            <Placemark id="414">
+                <name>204: TNSN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5140,12 +5115,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="415">
+                <Point id="413">
                     <coordinates>100.41161748455607,15.880207202295134,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="418">
-                <name>206: TNST</name>
+            <Placemark id="416">
+                <name>205: TNST</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5165,12 +5140,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="417">
+                <Point id="415">
                     <coordinates>99.9562401409652,8.489226281307438,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="420">
-                <name>207: TPHN</name>
+            <Placemark id="418">
+                <name>206: TPHN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5190,12 +5165,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="419">
+                <Point id="417">
                     <coordinates>100.4285534720049,16.21884901305586,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="422">
-                <name>208: TPK1</name>
+            <Placemark id="420">
+                <name>207: TPK1</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5215,12 +5190,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="421">
+                <Point id="419">
                     <coordinates>99.88614909591946,12.41580781025587,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="424">
-                <name>209: TPK2</name>
+            <Placemark id="422">
+                <name>208: TPK2</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5240,12 +5215,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="423">
+                <Point id="421">
                     <coordinates>99.36842806788462,10.987267571109063,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="426">
-                <name>210: TPKT</name>
+            <Placemark id="424">
+                <name>209: TPKT</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5265,12 +5240,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="425">
+                <Point id="423">
                     <coordinates>98.33047221863151,8.13455005323307,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="428">
-                <name>211: TPNM</name>
+            <Placemark id="426">
+                <name>210: TPNM</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5290,12 +5265,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="427">
+                <Point id="425">
                     <coordinates>104.70945419127546,16.936910991191624,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="430">
-                <name>212: TPRI</name>
+            <Placemark id="428">
+                <name>211: TPRI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5315,12 +5290,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="429">
+                <Point id="427">
                     <coordinates>101.71228210318502,13.944378351271862,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="432">
-                <name>213: TSKA</name>
+            <Placemark id="430">
+                <name>212: TSKA</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5340,12 +5315,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="431">
+                <Point id="429">
                     <coordinates>100.406191860623,6.928743266390073,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="434">
-                <name>214: TSKW</name>
+            <Placemark id="432">
+                <name>213: TSKW</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5365,12 +5340,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="433">
+                <Point id="431">
                     <coordinates>102.49242040384003,13.694943351761292,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="436">
-                <name>215: TSRI</name>
+            <Placemark id="434">
+                <name>214: TSRI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5390,12 +5365,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="435">
+                <Point id="433">
                     <coordinates>101.15511544128564,14.65188246267169,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="438">
-                <name>216: TSSK</name>
+            <Placemark id="436">
+                <name>215: TSSK</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5415,12 +5390,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="437">
+                <Point id="435">
                     <coordinates>104.56898864307152,15.105081773728198,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="440">
-                <name>217: TUBN</name>
+            <Placemark id="438">
+                <name>216: TUBN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5440,12 +5415,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="439">
+                <Point id="437">
                     <coordinates>104.88372305454715,15.192982436748967,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="442">
-                <name>218: TUTT</name>
+            <Placemark id="440">
+                <name>217: TUTT</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5465,12 +5440,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="441">
+                <Point id="439">
                     <coordinates>100.12493957005424,17.6630334438021,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="444">
-                <name>219: UDON</name>
+            <Placemark id="442">
+                <name>218: UDON</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5490,12 +5465,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="443">
+                <Point id="441">
                     <coordinates>102.78071206838375,17.412729499571537,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="446">
-                <name>220: UTHI</name>
+            <Placemark id="444">
+                <name>219: UTHI</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5515,12 +5490,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="445">
+                <Point id="443">
                     <coordinates>100.00866889559349,15.360825754485914,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="448">
-                <name>221: UTOG</name>
+            <Placemark id="446">
+                <name>220: UTOG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5540,12 +5515,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="447">
+                <Point id="445">
                     <coordinates>99.89308621218798,14.377269634933153,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="450">
-                <name>222: UTTD</name>
+            <Placemark id="448">
+                <name>221: UTTD</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5565,12 +5540,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="449">
+                <Point id="447">
                     <coordinates>100.09634992081452,17.630091295400096,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="452">
-                <name>223: VCBR</name>
+            <Placemark id="450">
+                <name>222: VCBR</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5590,12 +5565,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="451">
+                <Point id="449">
                     <coordinates>101.10681904032721,15.657373616784138,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="454">
-                <name>224: WGCN</name>
+            <Placemark id="452">
+                <name>223: WGCN</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5615,12 +5590,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="453">
+                <Point id="451">
                     <coordinates>99.60301463041276,17.89983551270374,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="456">
-                <name>225: WHAG</name>
+            <Placemark id="454">
+                <name>224: WHAG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5640,12 +5615,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="455">
+                <Point id="453">
                     <coordinates>98.63699300153998,19.56155333108592,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="458">
-                <name>226: WNKH</name>
+            <Placemark id="456">
+                <name>225: WNKH</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5665,12 +5640,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="457">
+                <Point id="455">
                     <coordinates>101.85028492748971,14.417007976897423,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="460">
-                <name>227: WNNW</name>
+            <Placemark id="458">
+                <name>226: WNNW</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5690,12 +5665,12 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="459">
+                <Point id="457">
                     <coordinates>103.75195948859954,17.63171569974975,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="462">
-                <name>228: WSPG</name>
+            <Placemark id="460">
+                <name>227: WSPG</name>
                 <description>
                 &lt;html&gt;
                 &lt;body&gt;
@@ -5715,7 +5690,7 @@
                 &lt;/html&gt;
                 </description>
                 <styleUrl>#3</styleUrl>
-                <Point id="461">
+                <Point id="459">
                     <coordinates>101.76866431007113,17.30078292281571,0.0</coordinates>
                 </Point>
             </Placemark>
