@@ -5,7 +5,7 @@ Thanks to NCDC, the CORS data from 7 days of 24-hour sessions at mean epoch 2021
 Contact Information for NCDC     Email : ncdccors@gmail.com    Line ID : @891wliii  
 
 On June 21, 2024, a team of geodesists began a comprehensive assessment by measuring baselines ranging from 8 to 47 km from four CORS to a project control point, "GNSS01." The results confirm the quality and agreement between DOL and RSTD as integral components of NCDC, as shown in the tables.  
-[Table CORS Check](https://github.com/phisan-chula/NCDC_CORS/blob/main/NCDC_IntegrityCheck_21Jun2024.png)
+![Table CORS Check](https://github.com/phisan-chula/NCDC_CORS/blob/main/NCDC_IntegrityCheck_21Jun2024.png)
 
 Various formats for NCDC coordinate list are provided for ease of use and promotion: CSV, KML, GPKG, etc.  
 
